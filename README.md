@@ -7,6 +7,4 @@
 In this project, I decided to use my ReactJS skills and build some components to compose this challenge.
 </p>
 
-
-
-Check the website:
+Check my <b><a target="_blank" href="https://notice-blog.vercel.app">progress</a></b>
